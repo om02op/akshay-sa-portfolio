@@ -1302,7 +1302,7 @@ header .circle {
 
 .copyright .text span {
   color: var(--main-color);
-  cursor: pointer;
+  cursor: auto;
 }
 
 .followme-wrap {
